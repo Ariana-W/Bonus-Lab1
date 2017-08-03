@@ -1,0 +1,6 @@
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Exercise 1\Bonus Exercise 1\bin\Debug\Bonus Exercise 1.exe.config
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Exercise 1\Bonus Exercise 1\bin\Debug\Bonus Exercise 1.exe
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Exercise 1\Bonus Exercise 1\bin\Debug\Bonus Exercise 1.pdb
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Exercise 1\Bonus Exercise 1\obj\Debug\Bonus Exercise 1.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Exercise 1\Bonus Exercise 1\obj\Debug\Bonus Exercise 1.exe
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Exercise 1\Bonus Exercise 1\obj\Debug\Bonus Exercise 1.pdb
